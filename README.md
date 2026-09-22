@@ -2,7 +2,9 @@
 
 # A B H I S H E K &nbsp; J A I N
 
-**AI &amp; Data Science** &nbsp;·&nbsp; **Applied ML** &nbsp;·&nbsp; **Full Stack**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=14B8A6&center=true&vCenter=true&width=520&height=40&lines=AI+%26+Data+Science;Applied+ML+%2B+Hybrid+RAG;Full+Stack+Engineering" alt="AI and Data Science, Applied ML and Hybrid RAG, Full Stack Engineering" />
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="480" alt="Pixel art of a developer working at a desk" />
 
 <sub>Final-year CS undergrad — I build systems that read, reason and ship.</sub>
 
@@ -39,8 +41,6 @@ stack
 <a href="mailto:abhishekjain00e@gmail.com">Email</a> &nbsp;·&nbsp;
 <a href="https://linkedin.com/in/your-handle">LinkedIn</a> &nbsp;·&nbsp;
 <a href="https://your-portfolio-url.com">Portfolio</a>
-
-<sub>no badges, no counters — just the log</sub>
 
 </div>
 
