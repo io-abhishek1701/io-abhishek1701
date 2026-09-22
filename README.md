@@ -1,6 +1,6 @@
 <!-- ==================== BANNER ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:A020F0,50:7B2FF7,100:1FB6C1&text=Abhishek%20Jain&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Development%20%7C%20LLM%20Fine-tuning%20%7C%20Hybrid%20RAG%20%7C%20Applied%20ML&descAlignY=58&descSize=18" width="100%" alt="Abhishek Jain" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:A020F0,50:7B2FF7,100:1FB6C1&text=Abhishek%20Jain&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Building%20VEYA%20Closet%20%E2%80%94%20an%20e-commerce%20website%20for%20women%27s%20clothing&descAlignY=58&descSize=18" width="100%" alt="Abhishek Jain" />
 </div>
 
 <div align="center">
