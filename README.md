@@ -17,20 +17,23 @@
 
 ## About
 
-- Building a **Financial Compliance &amp; Advisory Engine** — a fine-tuned LLM with **Hybrid RAG** over an Indian regulatory corpus
-- Fine-tuning small models with **QLoRA / PEFT** — resumable training on a 4 GB laptop GPU, adapters served on CPU / MPS
-- Full stack: **Next.js + TypeScript + Tailwind** on the front, **FastAPI + PostgreSQL + SQLAlchemy** on the back, shipped to **Azure**
-- **C++** on Codeforces, LeetCode, CodeChef and the CSES problem set
-- Reach me at **abhishekjain00e@gmail.com**
-- Fun fact: I fine-tuned an LLM on a 4 GB laptop GPU — and it survived
+- Currently building **VEYA** — a fashion e-commerce platform, live at **[veyacloset.com](https://veyacloset.com)**
+- Specializing in **AI development, Generative AI and prompt engineering**
+- Building projects that combine **AI research with practical, production-oriented software**
+- Worked with **QLoRA, PEFT, Hugging Face Transformers, embeddings and Hybrid RAG** for resource-efficient AI systems
+- Experienced in building **full-stack applications and REST APIs** with Next.js, TypeScript, FastAPI, Python and PostgreSQL
+- Strong foundation in **Data Structures &amp; Algorithms**, with problem-solving experience in C++
+- Interested in turning **AI ideas into real-world products**
+- Ships faster than I write code
+- Reach me at **[abhishekjain.dev/contact](https://abhishekjain.dev/contact)**
 
 <br clear="right"/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/LLM%20FINE--TUNING-A020F0?style=for-the-badge" alt="LLM fine-tuning" />
-  <img src="https://img.shields.io/badge/HYBRID%20RAG-7B2FF7?style=for-the-badge" alt="Hybrid RAG" />
-  <img src="https://img.shields.io/badge/FULL%20STACK-1FB6C1?style=for-the-badge" alt="Full stack" />
-  <img src="https://img.shields.io/badge/APPLIED%20ML-0D1117?style=for-the-badge" alt="Applied ML" />
+  <img src="https://img.shields.io/badge/GENERATIVE%20AI-7B2FF7?style=for-the-badge" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/HYBRID%20RAG-1FB6C1?style=for-the-badge" alt="Hybrid RAG" />
+  <img src="https://img.shields.io/badge/FULL%20STACK-0D1117?style=for-the-badge" alt="Full stack" />
 </div>
 
 <br/>
@@ -41,8 +44,8 @@
 ```console
 $ git log --author="Abhishek Jain" --oneline -5
 
-9e4c1a7  (HEAD -> main)  fincompliance — fine-tuned LLM + hybrid RAG
-3b8d05f                  veya — commerce: catalog, payments, logistics
+9e4c1a7  (HEAD -> main)  veya — fashion commerce, live at veyacloset.com
+3b8d05f                  fincompliance — fine-tuned LLM + hybrid RAG
 c62f9e4                  face-id — FaceNet + MTCNN over FastAPI
 17a0b3d                  studytrack — K-Means clustering, Streamlit
 0000000                  init — hello world
@@ -124,7 +127,7 @@ c62f9e4                  face-id — FaceNet + MTCNN over FastAPI
   <a href="mailto:abhishekjain00e@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPgo=" alt="LinkedIn" /></a>
   <a href="https://x.com/your-handle"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://abhishekjain.dev"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </div>
 
 <br/>
@@ -139,4 +142,4 @@ c62f9e4                  face-id — FaceNet + MTCNN over FastAPI
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:1FB6C1,50:7B2FF7,100:A020F0" width="100%" alt="footer" />
 </div>
 
-<!-- TODO: replace the LinkedIn handle, X handle and portfolio URL — all three are still placeholders. -->
+<!-- TODO: replace the LinkedIn and X handles — both are still placeholders. -->
