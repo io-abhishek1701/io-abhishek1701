@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280" width="480" height="280" role="img" aria-label="Terminal showing a QLoRA fine-tuning run reaching 0.418 loss">
+  <title>QLoRA fine-tuning run</title>
+  <defs>
+    <clipPath id="card"><rect x="1" y="1" width="478" height="278" rx="10"/></clipPath>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A020F0"/><stop offset="0.5" stop-color="#7B2FF7"/><stop offset="1" stop-color="#1FB6C1"/>
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="480" height="280" fill="#0D1117"/>
+    <rect width="480" height="36" fill="#161B22"/>
+  </g>
+  <line x1="0" y1="36" x2="480" y2="36" stroke="#30363D"/>
+  <rect x="0.5" y="0.5" width="479" height="279" rx="10" fill="none" stroke="#30363D"/>
+  <circle cx="22" cy="18" r="5" fill="#A020F0"/>
+  <circle cx="40" cy="18" r="5" fill="#7B2FF7"/>
+  <circle cx="58" cy="18" r="5" fill="#1FB6C1"/>
+  <text x="240" y="23" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#8B949E">train.py</text>
+
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.03;0.05;0.97;1" dur="9s" repeatCount="indefinite"/>
+      <text x="22" y="74" fill="#1FB6C1">$</text>
+      <text x="38" y="74" fill="#C9D1D9">python train.py --qlora --4bit</text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.14;0.16;0.97;1" dur="9s" repeatCount="indefinite"/>
+      <text x="22" y="104" fill="#8B949E">loading base model .........</text>
+      <text x="272" y="104" fill="#3FB950">ok</text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.24;0.26;0.97;1" dur="9s" repeatCount="indefinite"/>
+      <text x="22" y="134" fill="#8B949E">trainable params <tspan fill="#C9D1D9">0.42%</tspan> of base</text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.33;0.35;0.97;1" dur="9s" repeatCount="indefinite"/>
+      <text x="22" y="171" fill="#8B949E">epoch</text>
+      <rect x="80" y="160" width="240" height="10" rx="5" fill="#21262D"/>
+      <rect x="80" y="160" width="0" height="10" rx="5" fill="url(#bar)">
+        <animate attributeName="width" values="0;0;240;240;0" keyTimes="0;0.36;0.68;0.97;1" dur="9s" repeatCount="indefinite"/>
+      </rect>
+      <text x="334" y="171" fill="#C9D1D9">1/5<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.36;0.47;0.48;1" dur="9s" repeatCount="indefinite"/></text>
+      <text x="334" y="171" fill="#C9D1D9">3/5<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.48;0.49;0.59;0.6;1" dur="9s" repeatCount="indefinite"/></text>
+      <text x="334" y="171" fill="#C9D1D9">5/5<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.6;0.68;1" dur="9s" repeatCount="indefinite"/></text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.7;0.72;0.97;1" dur="9s" repeatCount="indefinite"/>
+      <text x="22" y="209" fill="#8B949E">loss <tspan fill="#C9D1D9">0.418</tspan></text>
+      <text x="170" y="209" fill="#8B949E">eval em <tspan fill="#C9D1D9">0.81</tspan></text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.81;0.83;0.97;1" dur="9s" repeatCount="indefinite"/>
+      <text x="22" y="243" fill="#7B2FF7">saved adapter -&gt; ckpt/step-1200</text>
+      <rect x="296" y="232" width="8" height="14" fill="#1FB6C1">
+        <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+  </g>
+</svg>

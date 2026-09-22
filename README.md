@@ -10,7 +10,10 @@
 <br/>
 
 <!-- ==================== ABOUT ==================== -->
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="developer at a desk" />
+<!-- Self-hosted animated SVG rather than a stock GIF: the stock one clipped its own
+     animation at the canvas edge and carried a white floor shadow that showed on the
+     dark theme. This one is drawn to fit, and matches the palette. -->
+<img align="right" src="assets/train.svg" width="330" alt="Terminal animation of a QLoRA fine-tuning run finishing at 0.418 loss" />
 
 ## About
 
