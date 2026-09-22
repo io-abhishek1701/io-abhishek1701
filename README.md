@@ -15,7 +15,7 @@
      dark theme. This one is drawn to fit, and matches the palette. -->
 <img align="right" src="assets/train.svg" width="330" alt="Terminal animation of a QLoRA fine-tuning run finishing at 0.418 loss" />
 
-## About
+## Check thissss out
 
 - Currently building **VEYA** — a fashion e-commerce platform, live at **[veyacloset.com](https://veyacloset.com)**
 - Specializing in **AI development, Generative AI and prompt engineering**
@@ -30,16 +30,16 @@
 <br clear="right"/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LLM%20FINE--TUNING-A020F0?style=for-the-badge" alt="LLM fine-tuning" />
-  <img src="https://img.shields.io/badge/GENERATIVE%20AI-7B2FF7?style=for-the-badge" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/HYBRID%20RAG-1FB6C1?style=for-the-badge" alt="Hybrid RAG" />
-  <img src="https://img.shields.io/badge/FULL%20STACK-0D1117?style=for-the-badge" alt="Full stack" />
+  <img src="https://img.shields.io/badge/LLM%20FINE--TUNING-A020F0?style=for-the-badge" alt="GENERATIVE AI" />
+  <img src="https://img.shields.io/badge/GENERATIVE%20AI-7B2FF7?style=for-the-badge" alt="FULL STACK" />
+  <img src="https://img.shields.io/badge/HYBRID%20RAG-1FB6C1?style=for-the-badge" alt="PROMPT ENGINEERING" />
+  <img src="https://img.shields.io/badge/FULL%20STACK-0D1117?style=for-the-badge" alt="SYSTEM DESIGN" />
 </div>
 
 <br/>
 
 <!-- ==================== WORK ==================== -->
-## Selected Work
+## My git consol
 
 ```console
 $ git log --author="Abhishek Jain" --oneline -5
@@ -54,7 +54,7 @@ c62f9e4                  face-id — FaceNet + MTCNN over FastAPI
 <br/>
 
 <!-- ==================== TECH STACK ==================== -->
-## Tech Stack
+## Tech that I Use
 
 <div align="center">
 
