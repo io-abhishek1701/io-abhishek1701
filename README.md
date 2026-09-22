@@ -16,13 +16,13 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently building a **Financial Compliance & Advisory Engine** — a fine-tuned LLM with **Hybrid RAG** over a regulatory corpus
-- 🧠 Fine-tuning small models with **QLoRA / PEFT** — resumable training on a 4 GB laptop GPU, adapters served on CPU / MPS
-- 🌐 Full stack: **Next.js + TypeScript + Tailwind** on the front, **FastAPI + PostgreSQL + SQLAlchemy** on the back, shipped to **Azure**
-- 👁️ Built **face recognition** with FaceNet + MTCNN + OpenCV, and **StudyTrack AI** — K-Means clustering behind a Streamlit dashboard
-- ⚔️ **C++** on Codeforces, LeetCode, CodeChef and the CSES problem set
-- 📫 Reach me at **abhishekjain00e@gmail.com**
-- ⚡ Fun fact: **I fine-tuned an LLM on a 4 GB laptop GPU — and it survived.**
+- Currently building a **Financial Compliance & Advisory Engine** — a fine-tuned LLM with **Hybrid RAG** over a regulatory corpus
+- Fine-tuning small models with **QLoRA / PEFT** — resumable training on a 4 GB laptop GPU, adapters served on CPU / MPS
+- Full stack: **Next.js + TypeScript + Tailwind** on the front, **FastAPI + PostgreSQL + SQLAlchemy** on the back, shipped to **Azure**
+- Built **face recognition** with FaceNet + MTCNN + OpenCV, and **StudyTrack AI** — K-Means clustering behind a Streamlit dashboard
+- **C++** on Codeforces, LeetCode, CodeChef and the CSES problem set
+- Reach me at **abhishekjain00e@gmail.com**
+- Fun fact: **I fine-tuned an LLM on a 4 GB laptop GPU — and it survived.**
 
 <br clear="right"/>
 
